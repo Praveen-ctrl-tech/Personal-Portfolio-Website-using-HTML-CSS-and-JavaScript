@@ -1,24 +1,23 @@
 Personal Portfolio Website
+
 Overview
 
-This project is a Personal Portfolio Website built using HTML, CSS, and JavaScript to showcase skills, projects, and experience. The website is fully responsive and interactive, providing an engaging way to present a professional profile online.
+A responsive and interactive personal portfolio website built using HTML, CSS, and JavaScript to showcase skills, projects, and experience.
 
 Features
 
-Responsive Design: Works seamlessly across desktops, tablets, and mobile devices.
+Responsive design for desktops, tablets, and mobiles
 
-Interactive Navigation: Smooth scrolling and active link highlighting for easy navigation.
+Smooth scrolling and interactive navigation
 
-Projects Showcase: Sections to display personal projects with images, descriptions, and links.
+Projects showcase with descriptions and links
 
-Contact Form: Simple contact form with client-side validation using JavaScript.
+Contact form with client-side validation
 
-Dynamic Elements: Interactive features like animations, hover effects, and modals implemented with JavaScript.
+Animations and hover effects for enhanced user experience
 
-Technologies Used
+Technologies
 
-HTML5 – Semantic markup for structure.
-
+HTML5 | CSS3 | JavaScript
 CSS3 – Styling, responsive layout, animations, and transitions.
-
 JavaScript – DOM manipulation, form validation, and interactivity.
